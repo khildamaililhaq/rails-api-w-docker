@@ -1,5 +1,5 @@
 
-# Internal wallet transactional system || Atask Test
+# Rails API Only + Postgresql + Delayed Job + Docker
 
 This Application is created using
 
@@ -18,12 +18,6 @@ For the installation process, first you need to install Ruby and Postgresql firs
 
 
 ```bash
-##Apps Thing
-export RAPID_API_KEY=99d3201c84mshb970256e7b62acdp1946d5jsn460b863e2ad8
-export RAPID_API_HOST=latest-stock-price.p.rapidapi.com
-export RAPID_API_URL=https://latest-stock-price.p.rapidapi.com/
-export ENCRYPTION_KEY=encryption_key
-
 ##Docker Thing
 export DOCKER_BUILDKIT=1
 export COMPOSE_PROJECT_NAME=atask
