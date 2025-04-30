@@ -56,6 +56,6 @@ end
 
 group :test do
   gem "database_cleaner"
-  gem "factory_bot_rails", "~> 4.0"
+  gem "factory_bot_rails", "~> 6.4"
   gem "shoulda-matchers", "~> 5.3"
 end
